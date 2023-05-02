@@ -1,0 +1,13 @@
+button{
+   background-color: white;
+   color: rgb(24, 24, 124);
+   padding: 6px 11px;
+   font-size: 25px;
+}
+
+button.quantidade{
+   background-color: rgb(24, 24, 124);
+   color: white;
+   margin: 0 5px;
+   font-size: 25px;
+}
